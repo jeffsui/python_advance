@@ -14,6 +14,7 @@
 - `decorator_property_setter_getter/` 属性装饰器用法
 - `decorator_staticmethod/` 静态方法装饰器
 - `descriptor/` 描述符协议示例
+- `dict_usage/` 字典10个常用内置方法
 - `enum_demo/` 枚举类型用法
 - `feishu_sdk_starter/` 飞书SDK网页应用免登示例
 - `generator/` 生成器用法
