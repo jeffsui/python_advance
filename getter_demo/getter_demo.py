@@ -1,4 +1,5 @@
 ﻿from operator import itemgetter
+
 """
 itemgetter() 方法
 itemgetter() 方法用于返回一个函数，该函数可以获取一个字典对象中指定键对应的值。
@@ -17,6 +18,6 @@ print(name,age,gender)
 
 numbers = [4, 1, 3, 4, 7]
 first_last = itemgetter(0,-1)
-f,l = first_last(numbers)
-print(f,l)
+first,last = first_last(numbers)
+print(first,last)
 
