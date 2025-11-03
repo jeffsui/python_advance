@@ -29,6 +29,7 @@
 - `lambda_usage/` lambda表达式
 - `logging_demo/` logging日志用法
 - `loguru_example/` loguru日志库用法
+- `notification/` windows通知消息
 - `match_case/` 模式匹配
 - `math/` 数学相关
 - `math_to_shape/` 数学与图形
